@@ -1,6 +1,11 @@
 .container {
     padding: 0 auto;
 }
+.flex {
+    display: flex;
+    align-content: center;
+}
 .song-text {
-    text-align: center;
+    justify-content: center;
+    display: flex;
 }
