@@ -1,5 +1,9 @@
 .container {
     padding: 0 auto;
+    margin: 0 100px;
+    display:flex;
+    align-content: center;
+
 }
 .flex {
     display: flex;
@@ -7,5 +11,6 @@
 }
 .song-text {
     justify-content: center;
-    display: flex;
+    max-width: 45vw;
+    width: 30vw;
 }
