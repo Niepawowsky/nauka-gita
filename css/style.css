@@ -13,3 +13,7 @@
     justify-content: center;
     max-width: 45vw;
 }
+.song-text h1 {
+    color: green;
+    font-family: Tahoma;
+}
