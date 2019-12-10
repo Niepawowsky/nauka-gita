@@ -1,0 +1,27 @@
+.container {
+    padding: 0 auto;
+    margin: 0 auto;
+    display:-ms-flexbox;
+    display:flex;
+    -ms-flex-pack: center;
+        justify-content: center;
+    background-color: darkgrey;
+}
+.flex {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-line-pack: center;
+        align-content: center;
+}
+.song-text {
+    -ms-flex-pack: center;
+        justify-content: center;
+    max-width: 30vw;
+}
+.song-text h1 {
+    color: red;
+    font-family: Tahoma;
+}
+.song-text p {
+    text-decoration: wavy;
+}
